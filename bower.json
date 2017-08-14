@@ -1,0 +1,28 @@
+{
+  "name": "webapp",
+  "description": "angulaerjs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "authors": [
+    "wyb"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "ui-router#^1.0.5",
+    "angular-cookies": "^1.6.5",
+    "angular-validation": "^1.4.4",
+    "angular-animate": "^1.6.5"
+  }
+}
